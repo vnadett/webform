@@ -1,0 +1,10 @@
+﻿.custom-grid {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+    .custom-grid th, .custom-grid td {
+        padding: 8px;
+        border: 1px solid #ddd;
+    }
