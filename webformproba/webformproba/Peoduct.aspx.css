@@ -1,10 +1,72 @@
-﻿.custom-grid {
-    width: 100%;
-    border-collapse: collapse;
-    text-align: center;
+﻿
+.panelNewFields {
+    margin-bottom: 20px;
 }
 
-    .custom-grid th, .custom-grid td {
-        padding: 8px;
-        border: 1px solid #ddd;
+    .panelNewFields input[type="text"],
+    .panelNewFields input[type="button"] {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
     }
+
+    .panelNewFields input[type="button"] {
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+        .panelNewFields input[type="button"]:hover {
+            background-color: #0056b3;
+        }
+
+
+.custom-grid {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+    .custom-grid th,
+    .custom-grid td {
+        padding: 10px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+
+    .custom-grid th {
+        background-color: #007bff;
+        color: #fff;
+    }
+
+
+.newButton,
+.AddButton {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+    .newButton:hover,
+    .AddButton:hover {
+        background-color: #0056b3;
+    }
+
+.deleteButton {
+    padding: 10px 20px;
+    background-color: crimson;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}

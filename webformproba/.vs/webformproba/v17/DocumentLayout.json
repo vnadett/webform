@@ -1,77 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\",
+  "WorkspaceRootPath": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|c:\\users\\vnade\\onedrive\\dokumentumok\\coding\\webformproba\\webformproba\\peoduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|solutionrelative:webformproba\\peoduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|c:\\users\\vnade\\onedrive\\dokumentumok\\coding\\webformproba\\webformproba\\peoduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|c:\\users\\vnade\\onedrive\\dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\peoduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|solutionrelative:webformproba\\peoduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|c:\\users\\vnade\\onedrive\\dokumentumok\\coding\\webformproba\\webformproba\\peoduct.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\peoduct.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|solutionrelative:webformproba\\peoduct.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|c:\\users\\vnade\\onedrive\\dokumentumok\\coding\\webformproba\\webformproba\\peoduct.aspx.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|c:\\users\\vnade\\onedrive\\dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\peoduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|solutionrelative:webformproba\\peoduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\peoduct.aspx.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|solutionrelative:webformproba\\peoduct.aspx.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|solutionrelative:webformproba\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|solutionrelative:webformproba\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|c:\\users\\vnade\\onedrive\\dokumentumok\\coding\\webformproba\\webformproba\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|solutionrelative:webformproba\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|c:\\users\\vnade\\onedrive\\dokumentumok\\coding\\webformproba\\webformproba\\baseresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|solutionrelative:webformproba\\baseresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|c:\\users\\vnade\\onedrive\\dokumentumok\\coding\\webformproba\\webformproba\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|solutionrelative:webformproba\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|c:\\users\\vnade\\onedrive\\dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|solutionrelative:webformproba\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|solutionrelative:webformproba\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|solutionrelative:webformproba\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|solutionrelative:webformproba\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\baseresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|solutionrelative:webformproba\\baseresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|solutionrelative:webformproba\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|c:\\users\\vnade\\onedrive\\dokumentumok\\coding\\webformproba\\webformproba\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|solutionrelative:webformproba\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\contact.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\contact.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|solutionrelative:webformproba\\contact.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|solutionrelative:webformproba\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
       "RelativeMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|solutionrelative:webformproba\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|solutionrelative:webformproba\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|solutionrelative:webformproba\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|solutionrelative:webformproba\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{677EBBA2-7842-4A51-AC8A-297F0C963806}|webformproba\\webformproba.csproj|solutionrelative:webformproba\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -81,16 +85,16 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 180,
+          "DockedWidth": 144,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Peoduct.aspx",
-              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\Peoduct.aspx",
+              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Peoduct.aspx",
               "RelativeDocumentMoniker": "webformproba\\Peoduct.aspx",
-              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\Peoduct.aspx",
+              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Peoduct.aspx",
               "RelativeToolTip": "webformproba\\Peoduct.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -99,11 +103,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Site.Master",
-              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\Site.Master",
+              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Site.Master",
               "RelativeDocumentMoniker": "webformproba\\Site.Master",
-              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\Site.Master",
+              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Site.Master",
               "RelativeToolTip": "webformproba\\Site.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -112,11 +116,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\App_Start\\RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "webformproba\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\App_Start\\RouteConfig.cs",
               "RelativeToolTip": "webformproba\\App_Start\\RouteConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -125,11 +129,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "BundleConfig.cs",
-              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\App_Start\\BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\App_Start\\BundleConfig.cs",
               "RelativeDocumentMoniker": "webformproba\\App_Start\\BundleConfig.cs",
-              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\App_Start\\BundleConfig.cs",
               "RelativeToolTip": "webformproba\\App_Start\\BundleConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -138,11 +142,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Global.asax.cs",
               "RelativeDocumentMoniker": "webformproba\\Global.asax.cs",
-              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Global.asax.cs",
               "RelativeToolTip": "webformproba\\Global.asax.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -151,11 +155,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ViewSwitcher.ascx",
-              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\ViewSwitcher.ascx",
+              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\ViewSwitcher.ascx",
               "RelativeDocumentMoniker": "webformproba\\ViewSwitcher.ascx",
-              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\ViewSwitcher.ascx",
+              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\ViewSwitcher.ascx",
               "RelativeToolTip": "webformproba\\ViewSwitcher.ascx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
@@ -164,11 +168,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "About.aspx",
-              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\About.aspx",
+              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\About.aspx",
               "RelativeDocumentMoniker": "webformproba\\About.aspx",
-              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\About.aspx",
+              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\About.aspx",
               "RelativeToolTip": "webformproba\\About.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -177,11 +181,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Default.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\Default.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Default.aspx.designer.cs",
               "RelativeDocumentMoniker": "webformproba\\Default.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\Default.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Default.aspx.designer.cs",
               "RelativeToolTip": "webformproba\\Default.aspx.designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -190,11 +194,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Default.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Default.aspx.cs",
               "RelativeDocumentMoniker": "webformproba\\Default.aspx.cs",
-              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Default.aspx.cs",
               "RelativeToolTip": "webformproba\\Default.aspx.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -203,11 +207,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\Default.aspx",
+              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Default.aspx",
               "RelativeDocumentMoniker": "webformproba\\Default.aspx",
-              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\Default.aspx",
+              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Default.aspx",
               "RelativeToolTip": "webformproba\\Default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -217,55 +221,68 @@
           ]
         },
         {
-          "DockedWidth": 208,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 244,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Site.Master.cs",
+              "RelativeDocumentMoniker": "webformproba\\Site.Master.cs",
+              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Site.Master.cs",
+              "RelativeToolTip": "webformproba\\Site.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:09:29.523Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Peoduct.aspx.css",
-              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\Peoduct.aspx.css",
+              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Peoduct.aspx.css",
               "RelativeDocumentMoniker": "webformproba\\Peoduct.aspx.css",
-              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\Peoduct.aspx.css",
+              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Peoduct.aspx.css",
               "RelativeToolTip": "webformproba\\Peoduct.aspx.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwEEAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-04-30T15:20:24.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Peoduct.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\Peoduct.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Peoduct.aspx.cs",
               "RelativeDocumentMoniker": "webformproba\\Peoduct.aspx.cs",
-              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\Peoduct.aspx.cs",
+              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Peoduct.aspx.cs",
               "RelativeToolTip": "webformproba\\Peoduct.aspx.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAASwEoAAAAgAAAA",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAkwG8AAACLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T13:59:53.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Peoduct.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\Peoduct.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Peoduct.aspx.designer.cs",
               "RelativeDocumentMoniker": "webformproba\\Peoduct.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\Peoduct.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Peoduct.aspx.designer.cs",
               "RelativeToolTip": "webformproba\\Peoduct.aspx.designer.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAzwD4AAAAAAAAA",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAYwH0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T15:21:05.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Endpoints.cs",
-              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\Endpoints.cs",
+              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Endpoints.cs",
               "RelativeDocumentMoniker": "webformproba\\Endpoints.cs",
-              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\Endpoints.cs",
+              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Endpoints.cs",
               "RelativeToolTip": "webformproba\\Endpoints.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -274,24 +291,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "ProductModel.cs",
-              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\Models\\ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Models\\ProductModel.cs",
               "RelativeDocumentMoniker": "webformproba\\Models\\ProductModel.cs",
-              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Models\\ProductModel.cs",
               "RelativeToolTip": "webformproba\\Models\\ProductModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T14:14:24.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "BaseResponseModel.cs",
-              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\BaseResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\BaseResponseModel.cs",
               "RelativeDocumentMoniker": "webformproba\\BaseResponseModel.cs",
-              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\BaseResponseModel.cs",
+              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\BaseResponseModel.cs",
               "RelativeToolTip": "webformproba\\BaseResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -300,11 +317,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Contact.aspx",
-              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Contact.aspx",
               "RelativeDocumentMoniker": "webformproba\\Contact.aspx",
-              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\Contact.aspx",
+              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Contact.aspx",
               "RelativeToolTip": "webformproba\\Contact.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -313,11 +330,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Contact.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\Contact.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Contact.aspx.designer.cs",
               "RelativeDocumentMoniker": "webformproba\\Contact.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\webformproba\\webformproba\\Contact.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\vnade\\OneDrive\\Dokumentumok\\coding\\github\\webform\\webformproba\\webformproba\\Contact.aspx.designer.cs",
               "RelativeToolTip": "webformproba\\Contact.aspx.designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

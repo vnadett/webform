@@ -73,8 +73,89 @@ namespace webformproba
             {
                 grid.DataSource = await GetProds();
                 grid.DataBind();
+                txtFieldManu.Text = string.Empty;
+                txtFieldPrice.Text = string.Empty;
+                txtFieldProd.Text = string.Empty;
+                panelNewFields.Visible = false;
+
             }
 
+        }
+        protected void grid_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (grid.SelectedIndex != -1)
+            {
+                btnEdit.Visible = true;
+                btnDelete.Visible = true;
+
+                GridViewRow selectedRow = grid.SelectedRow;
+
+                TextBoxId.Text = selectedRow.Cells[1].Text;
+                TextBox1.Text = selectedRow.Cells[2].Text;
+                TextBox2.Text = selectedRow.Cells[3].Text;
+                TextBox3.Text = selectedRow.Cells[4].Text;
+            }
+            else
+            {
+                btnEdit.Visible = false;
+                btnDelete.Visible = false;
+            }
+        }
+
+        protected void btnEdit_Click(object sender, EventArgs e)
+        {
+            paneledit.Visible = true;
+        }
+
+        protected async void btnDelete_Click(object sender, EventArgs e)
+        {
+            var request = new HttpRequestMessage(HttpMethod.Delete, Endpoints.ProductEndpoint + "DeleteProduct/" + int.Parse(TextBoxId.Text));
+
+            HttpResponseMessage response = await _client.SendAsync(request);
+
+            string content = await response.Content.ReadAsStringAsync();
+            var res = JsonConvert.DeserializeObject<BaseResponseModel<bool>>(content);
+
+            if (res != null && res.Success)
+            {
+                TextBoxId.Text = string.Empty;
+                TextBox1.Text = string.Empty;
+                TextBox2.Text = string.Empty;
+                TextBox3.Text = string.Empty;
+                grid.DataSource = await GetProds();
+                grid.DataBind();
+            }
+        }
+
+        protected async void Edit_Click(object sender, EventArgs e)
+        {
+            var product = new ProductModel
+            {
+                Id = int.Parse(TextBoxId.Text),
+                Name = TextBox1.Text,
+                Manufacturer = TextBox2.Text,
+                Price = decimal.Parse(TextBox3.Text)
+
+            };
+            var request = new HttpRequestMessage(HttpMethod.Put, Endpoints.ProductEndpoint + "UpdateProduct");
+            request.Content = new StringContent(JsonConvert.SerializeObject(product), Encoding.UTF8, "application/json");
+
+            HttpResponseMessage response = await _client.SendAsync(request);
+
+            string content = await response.Content.ReadAsStringAsync();
+
+            var res = JsonConvert.DeserializeObject<BaseResponseModel<bool>>(content);
+
+            if (res != null && res.Success)
+            {
+                paneledit.Visible = false;
+                TextBoxId.Text = string.Empty;
+                TextBox1.Text = string.Empty;
+                TextBox2.Text = string.Empty;
+                TextBox3.Text = string.Empty;
+                grid.DataSource = await GetProds();
+                grid.DataBind();
+            }
         }
     }
 }
